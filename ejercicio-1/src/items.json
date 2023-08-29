@@ -1,0 +1,13 @@
+[
+    {"nombre": "Manzana", "precio": 0.50},
+    {"nombre": "Banana", "precio": 0.30},
+    {"nombre": "Naranja", "precio": 0.40},
+    {"nombre": "Pera", "precio": 0.55},
+    {"nombre": "Uva", "precio": 0.70},
+    {"nombre": "Melón", "precio": 1.50},
+    {"nombre": "Sandía", "precio": 2.00},
+    {"nombre": "Kiwi", "precio": 0.75},
+    {"nombre": "Piña", "precio": 1.20},
+    {"nombre": "Mango", "precio": 1.00}
+  ]
+  
