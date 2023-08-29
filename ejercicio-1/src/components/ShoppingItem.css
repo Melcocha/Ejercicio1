@@ -26,4 +26,29 @@ li {
   button:hover {
     background-color: darkred;
   }
+
+  .quantity-input {
+    width: 50px;
+    margin: 0 8px;
+    padding: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    transition: border 0.3s;
+    text-align: center;
+}
+
+.quantity-input:focus {
+    border-color: dodgerblue;
+}
+
+.total-price {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: right;
+  padding-right: 10px;
+}
+
+
   
